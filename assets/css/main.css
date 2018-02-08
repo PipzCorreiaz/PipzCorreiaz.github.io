@@ -61,6 +61,23 @@
 		margin-bottom: 2em;
 	}
 
+	.quick-news h2 {
+		margin-left: 1em;
+		font-size: 1em;
+	}
+
+	.quick-news h1 {
+		margin-left: 1em;
+		font-size: 1em;
+		font-weight: bold;
+	}
+
+	.quick-news .text {
+		margin: 0 1em 0 1em;
+		font-size: 1em;
+		text-align: left;
+	}
+
 /* Containers */
 
 	.container {
