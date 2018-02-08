@@ -61,25 +61,31 @@
 		margin-bottom: 2em;
 	}
 
+	.quick-news {
+		background: white;
+		padding: 1rem;
+	}
+
 	.quick-news h2 {
-		margin-left: 1em;
 		font-size: 1em;
 	}
 
 	.quick-news h1 {
-		margin-left: 1em;
 		font-size: 1em;
 		font-weight: bold;
 	}
 
 	.quick-news .text {
-		margin: 0 1em 0 1em;
 		font-size: 1em;
 		text-align: left;
 	}
 
+	.publication {
+		background: white;
+		padding: 2rem;
+	}
+
 	.publication h1 {
-		margin-left: 1em;
 		font-size: 1.4em;
 		font-weight: 400;
 		letter-spacing: 0;
@@ -87,17 +93,35 @@
 	}
 
 	.publication h2 {
-		margin-left: 1.5em;
 		font-size: 1em;
 		letter-spacing: 0;
 		text-align: left;
 	}
 
 	.publication h3 {
-		margin-left: 1.5em;
 		font-size: 0.5em;
 		letter-spacing: 0;
 		text-align: left;
+	}
+
+	.news-post {
+		background: white;
+		padding: 2rem;
+	}
+
+	.news-post .date {
+		text-align: left;
+		font-size: 1.5em;
+	}
+
+	.news-post .title {
+		text-align: left;
+		display: inline-block;
+	}
+
+	.news-post p {
+		text-align: justify;
+		font-size: 0.85em;
 	}
 
 /* Containers */
@@ -1988,8 +2012,6 @@
 
 		.item header {
 			background: #fff;
-			margin: 0;
-			padding: 1em 0 1em 0;
 			font-size: 0.8em;
 		}
 
