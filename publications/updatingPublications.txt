@@ -6,3 +6,4 @@ AMIGOS
 ORCID
 cv
 INESC-ID
+sotis
