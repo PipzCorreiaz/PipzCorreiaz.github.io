@@ -7,3 +7,4 @@ ORCID
 cv
 INESC-ID
 sotis
+publons
