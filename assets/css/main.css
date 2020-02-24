@@ -2003,6 +2003,19 @@
 			background-color: #7eaeac;
 		}
 
+		#nav ul.submenu li a {
+			padding: 0 3.5em 0 0;
+		}
+
+
+		#nav ul.submenu li a.active{
+			color: #e27689;
+		}
+
+
+		.submenu {
+			font-size: 0.6em;
+		}
 
 
 		.research-project {
