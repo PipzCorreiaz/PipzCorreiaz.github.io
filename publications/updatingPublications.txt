@@ -8,3 +8,6 @@ cv
 INESC-ID
 sotis
 publons
+cienciaID
+acm
+ieee
