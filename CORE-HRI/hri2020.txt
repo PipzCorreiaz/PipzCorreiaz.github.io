@@ -1,0 +1,71 @@
+{title}
+====
+Are We Trusting AI Too Much?: Examining Human-Robot Interactions in the Real World.
+Taxonomy of Trust-Relevant Failures and Mitigation Strategies.
+Why Should We Gender?: The Effect of Robot Gendering and Occupational Stereotypes on Human Trust and Perceived Competency.
+Examining Profiles for Robotic Risk Assessment: Does a Robot's Approach to Risk Affect User Trust?
+Effects of Anthropomorphism and Accountability on Trust in Human Robot Interaction.
+When Humans Aren't Optimal: Robots that Collaborate with Risk-Aware Humans.
+Behavioural Responses to Robot Conversational Failures.
+Working with a Social Robot in School: A Long-Term Real-World Unsupervised Deployment.
+The Persistence of First Impressions: The Effect of Repeated Interactions on the Perception of a Social Robot.
+In Storage, Yet on Display: An Empirical Investigation of Robots' Value as Social Signals.
+Robots in the Danger Zone: Exploring Public Perception through Engagement.
+A Three-Site Reproduction of the Joint Simon Effect with the NAO Robot.
+CoWriting Kazakh: Learning a New Script with a Robot.
+JESSIE: Synthesizing Social Robot Behaviors for Personalized Neurorehabilitation and Beyond.
+Effects of Different Interaction Contexts when Evaluating Gaze Models in HRI.
+On-Road and Online Studies to Investigate Beliefs and Behaviors of Netherlands, US and Mexico Pedestrians Encountering Hidden-Driver Vehicles.
+Social Robot for Rehabilitation: Expert Clinicians and Post-Stroke Patients' Evaluation Following a Long-Term Intervention.
+A Social Robot as Therapy Facilitator in Interventions to Deal with Dementia-related Behavioral Symptoms.
+Vestibular Feedback on a Virtual Reality Wheelchair Driving Simulator: A Pilot Study.
+Is More Autonomy Always Better?: Exploring Preferences of Users with Mobility Impairments in Robot-assisted Feeding.
+An Escalating Model of Children's Robot Abuse.
+Defense Against the Dark Cars: Design Principles for Griefing of Autonomous Vehicles.
+Prompting Prosocial Human Interventions in Response to Robot Mistreatment.
+Community, Art and the Vernacular in Technological Ecosystems.
+Comedians in Cafes Getting Data: Evaluating Timing and Adaptivity in Real-World Robot Comedy Performance.
+Designing Social Interactions with a Humorous Robot Photographer.
+Live Dance Performance Investigating the Feminine Cyborg Metaphor with a Motion-activated Wearable Robot.
+Robot Role Design for Implementing Social Facilitation Theory in Musical Instruments Practicing.
+The Uncanny Valley Effect in Zoomorphic Robots: The U-Shaped Relation Between Animal Likeness and Likeability.
+Does Trait Loneliness Predict Rejection of Social Robots?: The Role of Reduced Attributions of Unique Humanness (Exploring the Effect of Trait Loneliness on Anthropomorphism and Acceptance of Social Robots).
+What Should Robots Feel Like?
+Not Some Random Agent: Multi-person Interaction with a Personalizing Service Robot.
+Multi-Armed Bandits with Fairness Constraints for Distributing Resources to Human Teammates.
+Strategies for the Inclusion of Human Members within Human-Robot Teams.
+Planning with Partner Uncertainty Modeling for Efficient Information Revealing in Teamwork.
+Decision-Making for Bidirectional Communication in Sequential Human-Robot Collaborative Tasks.
+Designing Social Cues for Collaborative Robots: The Role of Gaze and Breathing in Human-Robot Collaboration.
+Varied Human-Like Gestures for Social Robots: Investigating the Effects on Children's Engagement and Language Learning.
+Using Self-Determination Theory in Social Robots to Increase Motivation in L2 Word Learning.
+Creativity Encounters Between Children and Robots.
+Impact of Interaction Context on the Student Affect-Learning Relationship in Child-Robot Interaction.
+Patricc: A Platform for Triadic Interaction with Changeable Characters.
+Design Patterns for an Interactive Storytelling Robot to Support Children's Engagement and Agency.
+Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Interaction Data.
+LESS is More: Rethinking Probabilistic Models of Human Behavior.
+Plug-and-Play Gesture Control Using Muscle and Motion Sensors.
+Do Humans Imitate Robots?: An Investigation of Strategic Social Learning in Human-Robot Interaction.
+Embodied Affect for Real-World Human-Robot Interaction.
+"Are You Sad, Cozmo?": How Humans Make Sense of a Home Robot's Emotion Displays.
+Teachers' Disappointment: Theoretical Perspective on the Inclusion of Ambivalent Emotions in Human-Robot Interactions in Education.
+MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders.
+Using the Geneva Emotion Wheel to Measure Perceived Affect in Human-Robot Interaction.
+Closeness is Key over Long Distances: Effects of Interpersonal Closeness on Telepresence Experience.
+Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation.
+Effects of Onset Latency and Robot Speed Delays on Mimicry-Control Teleoperation.
+Human Perceptions of a Curious Robot that Performs Off-Task Actions.
+Would You Mind Me if I Pass by You?: Socially-Appropriate Behaviour for an Omni-based Social Robot in Narrow Environment.
+Interacting with a Social Robot Affects Visual Perception of Space.
+Exploring the Role of Gender in Perceptions of Robotic Noncompliance.
+Intonation in Robot Speech: Does it Work the Same as with People?
+Can a Robot Handle Customers with Unreasonable Complaints?
+Death of a Robot: Social Media Reactions and Language Usage when a Robot Stops Operating.
+What's in a Name?: Effects of Category Labels on the Consumers' Acceptance of Robotic Products.
+A Robot by Any Other Frame: Framing and Behaviour Influence Mind Perception in Virtual but not Real-World Environments.
+Effects of a Social Robot's Self-Explanations on How Humans Understand and Evaluate Its Behavior.
+Interactive Tuning of Robot Program Parameters via Expected Divergence Maximization.
+See What I See: Enabling User-Centric Robotic Assistance Using First-Person Demonstrations.
+Teaching a Robot Tasks of Arbitrary Complexity via Human Feedback.
+Joint Goal and Strategy Inference across Heterogeneous Demonstrators via Reward Network Distillation.
