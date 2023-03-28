@@ -1,8 +1,5 @@
 {title}
 ====
-Robots and Us - Useful Roles of Robots in Human Society.
-Autonomy in Human Environments.
-Building a Service Robotics Business-Challenges from the Field.
 Eye-Hand Behavior in Human-Robot Shared Manipulation.
 Wait, Can You Move the Robot?: Examining Telepresence Robot Use in Collaborative Teams.
 Shared Dynamic Curves: A Shared-Control Telemanipulation Method for Motor Task Training.

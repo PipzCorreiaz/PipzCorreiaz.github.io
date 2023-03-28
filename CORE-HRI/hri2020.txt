@@ -1,6 +1,5 @@
 {title}
 ====
-Are We Trusting AI Too Much?: Examining Human-Robot Interactions in the Real World.
 Taxonomy of Trust-Relevant Failures and Mitigation Strategies.
 Why Should We Gender?: The Effect of Robot Gendering and Occupational Stereotypes on Human Trust and Perceived Competency.
 Examining Profiles for Robotic Risk Assessment: Does a Robot's Approach to Risk Affect User Trust?
@@ -23,7 +22,6 @@ Is More Autonomy Always Better?: Exploring Preferences of Users with Mobility Im
 An Escalating Model of Children's Robot Abuse.
 Defense Against the Dark Cars: Design Principles for Griefing of Autonomous Vehicles.
 Prompting Prosocial Human Interventions in Response to Robot Mistreatment.
-Community, Art and the Vernacular in Technological Ecosystems.
 Comedians in Cafes Getting Data: Evaluating Timing and Adaptivity in Real-World Robot Comedy Performance.
 Designing Social Interactions with a Humorous Robot Photographer.
 Live Dance Performance Investigating the Feminine Cyborg Metaphor with a Motion-activated Wearable Robot.
@@ -47,7 +45,6 @@ Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Inte
 LESS is More: Rethinking Probabilistic Models of Human Behavior.
 Plug-and-Play Gesture Control Using Muscle and Motion Sensors.
 Do Humans Imitate Robots?: An Investigation of Strategic Social Learning in Human-Robot Interaction.
-Embodied Affect for Real-World Human-Robot Interaction.
 "Are You Sad, Cozmo?": How Humans Make Sense of a Home Robot's Emotion Displays.
 Teachers' Disappointment: Theoretical Perspective on the Inclusion of Ambivalent Emotions in Human-Robot Interactions in Education.
 MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders.

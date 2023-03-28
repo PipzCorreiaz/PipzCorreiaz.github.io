@@ -1,6 +1,5 @@
 {title}
 ====
-Motion of Soft Robots with Physically Embodied Intelligence.
 Using Skin Texture Change to Design Emotion Expression in Social Robots.
 Infrasound for HRI: A Robot Using Low-Frequency Vibrations to Impact How People Perceive its Actions.
 Backseat Teleoperator: Affective Feedback with On-Screen Agents to Influence Teleoperation.
@@ -17,7 +16,6 @@ From One to Another: How Robot-Robot Interaction Affects Users' Perceptions Foll
 The Stereotype Content Model Applied to Human-Robot Interactions in Groups.
 Micbot: A Peripheral Robotic Object to Shape Conversational Dynamics and Team Performance.
 Exploring Prosociality in Human-Robot Teams.
-Seeing Like a Rover: Team Work and Human-Robot Relations.
 Drone.io: A Gestural and Visual Interface for Human-Drone Interaction.
 Learning from Users: an Elicitation Study and Taxonomy for Communicating Small Unmanned Aerial System States Through Gestures.
 Collocated Human-Drone Interaction: Methodology and Approach Strategy.
@@ -35,8 +33,6 @@ Transfer Depends on Acquisition: Analyzing Manipulation Strategies for Robotic F
 Effective Persuasion Strategies for Socially Assistive Robots.
 Hierarchical POMDP Framework for a Robot-Assisted ASD Diagnostic Protocol.
 Collaborative User Responses in Multiparty Interaction with a Couples Counselor Robot.
-Possibility, It's a Mystery: How Keepon's Video Brought Me Here.
-Robotic Musicianship and Musical Human Augmentation.
 Evaluation of Word Representations in Grounding Natural Language Instructions Through Computational Human-Robot Interaction.
 On the Utility of Model Learning in HRI.
 The Benefits of Immersive Demonstrations for Teaching Robots.
@@ -44,21 +40,6 @@ Teacher-Aware Active Robot Learning.
 Characterizing Input Methods for Human-to-Robot Demonstrations.
 Supplementary Material for Characterizing Input Methods for Human-to-Robot Demonstrations.
 The Assistive Multi-Armed Bandit.
-Dancing with ChairBots.
-Exploring Collaborative Interactions Between Robots and Blind People.
-Promoting STEAM Education with Child-Robot Musical Theater.
-How Can You Touch and Feel via Telerobots?
-Welcoming Robot Behaviors for Drawing Attention.
-Learning Vision-Based Quadrotor Control in User Proximity.
-Video: Pointing Gestures for Proximity Interaction.
-CARESSES: The Flower that Taught Robots about Culture.
-A Digital Twin for Human-Robot Interaction.
-Second Language Tutoring Using Social Robots: L2TOR - The Movie.
-Cuteness as a 'Dark Pattern' in Home Robots.
-Good Robot Design or Machiavellian? An In-the-Wild Robot Leveraging Minimal Knowledge of Passersby's Culture.
-Aquaticus: Publicly Available Datasets from a Marine Human-Robot Teaming Testbed.
-Language-Capable Robots may Inadvertently Weaken Human Moral Norms.
-Reframing the Role of Novelty within Social HRI: from Noise to Information.
 Effects of Distinct Robot Navigation Strategies on Human Behavior in a Crowded Environment.
 Comparing Human-Robot Proxemics Between Virtual Reality and the Real World.
 The Effects of Proactive Release Behaviors During Human-Robot Handovers.
@@ -69,122 +50,3 @@ Robots for Inter-Generational Interactions: Implications for Nonfamilial Communi
 A Bayesian Theory of Mind Approach to Nonverbal Communication.
 Second Language Tutoring Using Social Robots: A Large-Scale Study.
 Children's Responding to Humanlike Agents Reflects an Uncanny Valley.
-Apprentice of Oz: Human in the Loop System for Conversational Robot Wizard of Oz.
-Teaching Social Robotics to Motivate Women into Engineering and Robotics Careers.
-The Reality-Virtuality Interaction Cube: A Framework for Conceptualizing Mixed-Reality Interaction Design Elements for HRI.
-Human-Robot-Collaboration (HRC): Social Robots as Teaching Assistants for Training Activities in Small Groups.
-The Pratfall Effect and Interpersonal Impressions of a Robot that Forgets and Apologizes.
-Addiction to Social Robots: A Research Proposal.
-Remote-Operated Multimodal Interface for Therapists During Walker-Assisted Gait Rehabilitation: A Preliminary Assessment.
-Beyond Programming: Can Robots' Norm-Violating Actions Elicit Mental State Attributions?
-Similarity Attraction for Robot's Dialect in Language Learning Using Social Robots.
-Affective Robot Movement Generation Using CycleGANs.
-DataDrawingDroid: A Wheel Robot Drawing Planned Path as Data-Driven Generative Art.
-Humans Socially Attune to Their "Follower" Robot.
-Measurement of Moral Concern for Robots.
-Reducing Overtrust in Failing Robotic Systems.
-Investigating User Perceptions of HRI in Social Contexts.
-Remote Supervision of an Unmanned Surface Vessel - A Comparison of Interfaces.
-Towards a Conversational Agent for Remote Robot-Human Teaming.
-Human Robot Interaction Using Diver Hand Signals.
-Robot Competition to Evaluate Guidance Skill for General Users in VR Environment.
-Pronunciation-Based Child-Robot Game Interactions to Promote Literacy Skills.
-Using Decision Support Systems for Juries in Court: Comparing the Use of Real and CG Robots.
-Recognizing F-Formations in the Open World.
-Impressions of Message Compliance-Gaining Strategies for Considering Robot Rights.
-Preliminary Studies of SEMG-Based Finger Gesture Classification for Smart Watch Application Using Deep Learning.
-Humanoid Therapy Robot for Encouraging Exercise in Dementia Patients.
-Leveraging Neurophysiological Information to Augment Interpretation of Responses to Vulnerable Robot Behaviors.
-Testing the Machine Heuristic: Robots and Suspicion in News Broadcasts.
-Personal Partner Agents for Cooperative Intelligence.
-Mutual Reinforcement Learning with Robot Trainers.
-Eye-Gaze-Controlled Telepresence Robots for People with Motor Disabilities.
-Possibilities in Robot Stop-Motion.
-Inferring Human Personality Traits in Human-Robot Social Interaction.
-Changes in Heart Rate and Feeling of Safety When Led by a Rehabilitation Robot.
-Detecting Anomalous Behavior of Socially Assistive Robots in Geriatric Care Facilities.
-AIDA: A Social Co-Robot to Uplift Workers with Intellectual and Developmental Disabilities.
-Investigating the Effect of Social Cues on Social Agency Judgement.
-Usability Evaluation of a Robotic System for Cognitive Testing.
-Why Children Prefer Extrovert or Introvert Robots: A Pilot Study Using Pairwise Robot Comparison.
-Exploring Human-Robot Trust During Teaming in a Real-World Testbed.
-Humans' Perception of a Robot Moving Using a Slow in and Slow Out Velocity Profile.
-Learning Ecosystem in Elementary School Using Modifiable Humanoid Robot.
-Projection-Based Augmented Reality Robot Prototype with Human-Awareness.
-Unique Cipher-Acoustic Languages for Human-Robot Interactions.
-Meeting Stevie: Perceptions of a Socially Assistive Robot by Residents and Staff in a Long-Term Care Facility.
-BabeBay-A Companion Robot for Children Based on Multimodal Affective Computing.
-How Humans Develop Trust in Communication Robots: A Phased Model Based on Interpersonal Trust.
-Validating the Accuracy of Imaged-Based Research into the Uncanny Valley: An Experimental Proposal.
-Engaging Persons with Neuro-Developmental Disorder with a Plush Social Robot.
-Roboethics as a Research Puzzle.
-Creating a Shared Reality with Robots.
-Towards Generating Spatial Referring Expressions in a Social Robot: Dynamic vs Non-Ambiguous.
-Measuring Gains and Losses in Human-Robot Trust: Evidence for Differentiable Components of Trust.
-MOCCA Studio: a Graphical Tool for High-Level Programming of Human-Robot Social Interaction.
-A Neurorobotics Approach to Investigating the Emergence of Communication in Robots.
-Dual-Myo Real-Time Control of a Humanoid Arm for Teleoperation.
-Facilitating Software Development for Mobile Social Robots by Simulating Interactions Between a Robot and Pedestrians.
-Emulating Touch Signals from Multivariate Sensor Data Using Gated RNNs.
-Kindergarten Children Attitude Towards Humanoid Robots: What is the Effect of the First Experience?
-Sensorless Hand Guidance Using Microsoft Hololens.
-Playing Charades with a Robot: Collecting a Large Dataset of Human Gestures Through HRI.
-Welcoming Robot Behaviors for Drawing Attention.
-The Effect of Robot vs. Human Corrective Feedback on Children's Intrinsic Motivation.
-Positive and Negative Opinions About Living with Robots in Japanese University Students.
-A Contextual Inquiry of AVEC: Power Assist Wheelchair Enhancing Communication.
-A Pilot Study on Determining the Relation Between Gaze Aversion and Interaction Experience.
-Lifespan Design of Conversational Agent with Growth and Regression Metaphor for the Natural Supervision on Robot Intelligence.
-Towards Understanding User Preferences for Explanation Types in Model Reconciliation.
-Healthcare Support by a Humanoid Robot.
-Design of a Human Multi-Robot Interaction Medium of Cognitive Perception.
-Telesuit: An Immersive User-Centric Telepresence Control Suit.
-The RoPE Scale: a Measure of How Empathic a Robot is Perceived.
-A Social Robot for Autonomous Health Data Acquisition Among Hospitalized Patients: An Exploratory Field Study.
-Authoring Robot Presentation for Promoting Reflection on Presentation Scenario.
-Analysis of User Interaction While Walking on Slopes Using Robotic Rollators - Pilot Study.
-Augmented Reality for Quick and Intuitive Robotic Packing Re-Programming.
-Demo: Pointing Gestures for Proximity Interaction.
-Face-to-Face Contact Method for Humanoid Robots Using Face Position Prediction.
-Demonstrating a Framework for Rapid Development of Physically Situated Interactive Systems.
-Social Robots in Therapy and Care.
-Virtual, Augmented, and Mixed Reality for Human-Robot Interaction (VAM-HRI).
-Human-Machine Communication: What Does/Could Communication Science Contribute to HRI?
-Expressivity for Sustained Human-Robot Interaction.
-What Could Go Wrong?! 2nd Workshop: Lessons Learned When Doing HRI User Studies with Off-the-Shelf Social Robots.
-PREC 2019: Personal Robots for Exercising and Coaching.
-Robots for Social Good: Exploring Critical Design for HRI.
-Bodily Human Robot Interaction.
-Personalization in Long-Term Human-Robot Interaction.
-Dangerous HRI: Testing Real-World Robots has Real-World Consequences.
-The Dark Side of Human-Robot Interaction: Ethical Considerations and Community Guidelines for the Field of HRI.
-Closeness with Robots as Social Partners.
-Robots for Learning - R4L: Adaptive Learning.
-Soft Sensors and Actuators for Designing New Human-Robot/Machine Interaction Interfaces.
-Test Methods and Metrics for Effective HRI in Collaborative Human-Robot Teams.
-Social Human-Robot Interaction of Human-Care Service Robots.
-Persuasive ChairBots: A Robot Recruited Experiment.
-Group Intelligence on Social Robots.
-Robots in Need: Acquiring Assistance with Emotion.
-Children's Judgments of Anti-Social Behaviour Towards a Robot: Liking and Learning.
-Learning from Corrective Demonstrations.
-Toward Morally Sensitive Robotic Communication.
-The Effect of Tactility and Socio-Relational Context on Social Presence and User Satisfaction.
-Systematic Variation of Gaze Timings and Effects on the Human Level of Comfort and Feeling of Being Attended.
-Self-Assessing and Communicating Manipulation Proficiency Through Active Uncertainty Characterization.
-A Design Tool for Therapeutic Social-Physical Human-Robot Interactions.
-Heterogeneous Learning from Demonstration.
-Computational Tools for Human-Robot Interaction Design.
-Agency in Canine-Robot Interaction: Do Dogs (Canis Familiaris) Understand Humanoid Robots Pointing Behavior?
-Methods and Effects of Priming a Teloperator's Perception of Robot Capabilities.
-Leveraging Robot Embodiment to Facilitate Trust and Smoothness.
-Enhancing Robot Learning with Human Social Cues.
-Predictability in Human-Robot Interactions for Autistic Children.
-Improving Human-Robot Interaction Through Explainable Reinforcement Learning.
-Social Influence in HRI with Application to Social Robots for Rehabilitation.
-Pomelo, a Collaborative Education Technology Interaction Robot.
-Design for Serendipitous Interaction: BubbleBot - Bringing People Together with Bubbles.
-Lumigami.
-An Antisocial Social Robot: Using Negative Affect to Reinforce Cooperation in Human-Robot Interactions.
-AVEC: Power Assist Vehicle Enriching Communication Using Intuitive Interface.
-Human-Centered, Ergonomic Wearable Device with Computer Vision Augmented Intelligence for VR Multimodal Human-Smart Home Object Interaction.
