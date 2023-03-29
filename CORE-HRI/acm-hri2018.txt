@@ -1,0 +1,51 @@
+{title}
+====
+Eye-Hand Behavior in Human-Robot Shared Manipulation
+Wait, Can You Move the Robot? Examining Telepresence Robot Use in Collaborative Teams
+Shared Dynamic Curves: A Shared-Control Telemanipulation Method for Motor Task Training
+It's All in Your Head: Using Priming to Shape an Operator's Perceptions and Behavior during Teleoperation
+Do Children Perceive Whether a Robotic Peer is Learning or Not?
+The Effect of a Robot's Gestures and Adaptive Tutoring on Children's Acquisition of Second Language Vocabularies
+Thinking Aloud with a Tutoring Robot to Enhance Learning
+"Stop. I See a Conflict Happening.": A Robot Mediator for Young Children's Interpersonal Conflict Resolution
+Improving Collocated Robot Teleoperation with Augmented Reality
+Expressing Robot Incapability
+Characterizing the Design Space of Rendered Robot Faces
+What is Human-like? Decomposing Robots' Human-like Appearance Using the Anthropomorphic RoBOT (ABOT) Database
+Fribo: A Social Networking Robot for Increasing Social Connectedness through Sharing Daily Home Activities from Living Noise Data
+Active Robot Learning for Temporal Task Models
+Learning from Richer Human Guidance: Augmenting Comparison-Based Learning with Feature Queries
+Learning from Physical Human Corrections, One Feature at a Time
+DNN-HMM Based Automatic Speech Recognition for HRI Scenarios
+Deep Reinforcement Learning of Abstract Reasoning from Demonstrations
+Inducing Bystander Interventions During Robot Abuse with Social Mechanisms
+The Ripple Effects of Vulnerability: The Effects of a Robot's Vulnerable Behavior on Trust in Human-Robot Teams
+Humans Conform to Robots: Disambiguating Trust, Truth, and Conformity
+Robots And Racism
+Mindless Robots Get Bullied
+User-Centered Robot Head Design: A Sensing Computing Interaction Platform for Robotics Research (SCIPRR)
+Bioluminescence-Inspired Human-Robot Interaction: Designing Expressive Lights That Affect Human's Willingness to Interact with a Robot
+Haru: Hardware Design of an Experimental Tabletop Robot Assistant
+Iterative Design of an Upper Limb Rehabilitation Game with Tangible Robots
+Human-Robot Similarity and Willingness to Work with a Robotic Co-Worker
+Group-Based Emotions in Teams of Humans and Robots
+Where Should Robots Talk? Spatial Arrangement Study from a Participant Workload Perspective
+Friends or Foes? Socioemotional Support and Gaze Behaviors in Mixed Groups of Humans and Robots
+Social Robots for Engagement in Rehabilitative Therapies: Design Implications from a Study with Therapists
+"Thank You for Sharing That Interesting Fact!": Effects of Capability and Context on Indirect Speech Act Use in Task-Based Human-Robot Dialogue
+Planning with Trust for Human-Robot Collaboration
+Communicating Robot Motion Intent with Augmented Reality
+An Autonomous Dynamic Camera Method for Effective Remote Teleoperation
+Multimodal Expression of Artificial Emotion in Social Robots Using Color, Motion and Sound
+Getting to Know Each Other: The Role of Social Dialogue in Recovery from Errors in Social Robots
+Observing Robot Touch in Context: How Does Touch and Attitude Affect Perceptions of a Robot's Social Qualities?
+Social Momentum: A Framework for Legible Navigation in Dynamic Multi-Agent Environments
+The Peculiarities of Robot Embodiment (EmCorp-Scale): Development, Validation and Initial Test of the Embodiment and Corporeality of Artificial Agents Scale
+Be More Transparent and Users Will Like You: A Robot Privacy and User Experience Design Experiment
+Futuristic Autobiographies: Weaving Participant Narratives to Elicit Values around Robots
+Social Cobots: Anticipatory Decision-Making for Collaborative Robots Incorporating Unexpected Human Behaviors
+Design Methodology for the UX of HRI: A Field Study of a Commercial Social Robot at an Airport
+Compact Real-Time Avoidance on a Humanoid Robot for Human-Robot Interaction
+Detecting Contingency for HRI in Open-World Environments
+Effects of Robot Sound on Auditory Localization in Human-Robot Collaboration
+Evaluating Social Perception of Human-to-Robot Handovers Using the Robot Social Attributes Scale (RoSAS)

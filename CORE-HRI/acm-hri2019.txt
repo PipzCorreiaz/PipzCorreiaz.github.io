@@ -1,0 +1,50 @@
+{title}
+====
+Using Skin Texture Change to Design Emotion Expression in Social Robots
+Infrasound for HRI: A Robot Using Low-Frequency Vibrations to Impact How People Perceive Its Actions
+Backseat Teleoperator: Affective Feedback with on-Screen Agents to Influence Teleoperation
+Emotion Expression in HRI: When and Why
+Robot Capability and Intention in Trust-Based Decisions across Tasks
+What? That's Not a Chair!: How Robot Informational Errors Affect Children's Trust towards Robots
+"I Don't Believe You": Investigating the Effects of Robot Trust Violation and Repair
+A Robot Barista Comments on Its Clients: Social Attitudes toward Robot Data Use
+Consider the Human Work Experience When Integrating Robotics in the Workplace
+Balanced Information Gathering and Goal-Oriented Actions in Shared Autonomy
+Monetary-Incentive Competition between Humans and Robots: Experimental Results
+Is Human-Robot Interaction More Competitive between Groups than between Individuals?
+From One to Another: How Robot-Robot Interaction Affects Users' Perceptions Following a Transition between Robots
+The Stereotype Content Model Applied to Human-Robot Interactions in Groups
+Micbot: A Peripheral Robotic Object to Shape Conversational Dynamics and Team Performance
+Exploring Prosociality in Human-Robot Teams
+Drone.Io: A Gestural and Visual Interface for Human-Drone Interaction
+Learning from Users: An Elicitation Study and Taxonomy for Communicating Small Unmanned Aerial System States through Gestures
+Collocated Human-Drone Interaction: Methodology and Approach Strategy
+On-Road Evaluation of Autonomous Driving Training
+Mixed Reality Deictic Gesture for Multi-Modal Robot Communication
+Robot Teleoperation with Augmented Reality Virtual Surrogates
+Can You Tell the Robot by the Voice? An Exploratory Study on the Role of Voice in the Perception of Robots
+Helping Not Hurting: Applying the Stereotype Content Model and BIAS Map to Social Robotics
+Gender Effects in Perceptions of Robots and Humans with Varying Emotional Intelligence
+People's Explanations of Robot Behavior Subtly Reveal Mental State Inferences
+Explanation-Based Reward Coaching to Improve Human Performance via Reinforcement Learning
+Plan Explanations as Model Reconciliation: An Empirical Study
+Transfer Depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding
+Effective Persuasion Strategies for Socially Assistive Robots
+Hierarchical POMDP Framework for a Robot-Assisted ASD Diagnostic Protocol
+Collaborative User Responses in Multiparty Interaction with a Couples Counselor Robot
+Evaluation of Word Representations in Grounding Natural Language Instructions through Computational Human-Robot Interaction
+On the Utility of Model Learning in HRI
+The Benefits of Immersive Demonstrations for Teaching Robots
+Teacher-Aware Active Robot Learning
+Characterizing Input Methods for Human-to-Robot Demonstrations
+The Assistive Multi-Armed Bandit
+Effects of Distinct Robot Navigation Strategies on Human Behavior in a Crowded Environment
+Comparing Human-Robot Proxemics between Virtual Reality and the Real World
+The Effects of Proactive Release Behaviors during Human-Robot Handovers
+Stop Doing It! Approaching Strategy for a Robot to Admonish Pedestrians
+Robots for Joy, Robots for Sorrow: Community Based Robot Design for Dementia Caregivers
+SAIL: Simulation-Informed Active in-the-Wild Learning
+Robots for Inter-Generational Interactions: Implications for Nonfamilial Community Settings
+A Bayesian Theory of Mind Approach to Nonverbal Communication
+Second Language Tutoring Using Social Robots: A Large-Scale Study
+Children's Responding to Humanlike Agents Reflects an Uncanny Valley
