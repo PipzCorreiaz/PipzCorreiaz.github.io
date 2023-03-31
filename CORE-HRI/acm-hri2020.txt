@@ -45,7 +45,7 @@ Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Inte
 LESS is More: Rethinking Probabilistic Models of Human Behavior
 Plug-and-Play Gesture Control Using Muscle and Motion Sensors
 Do Humans Imitate Robots? An Investigation of Strategic Social Learning in Human-Robot Interaction
-"Are You Sad, Cozmo?": How Humans Make Sense of a Home Robot's Emotion Displays
+Are You Sad, Cozmo?: How Humans Make Sense of a Home Robot's Emotion Displays
 Teachers' Disappointment: Theoretical Perspective on the Inclusion of Ambivalent Emotions in Human-Robot Interactions in Education
 MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders
 Using the Geneva Emotion Wheel to Measure Perceived Affect in Human-Robot Interaction

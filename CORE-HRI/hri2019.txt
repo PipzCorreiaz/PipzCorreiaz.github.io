@@ -26,7 +26,6 @@ Can you Tell the Robot by the Voice? An Exploratory Study on the Role of Voice i
 Helping Not Hurting: Applying the Stereotype Content Model and BIAS Map to Social Robotics.
 Gender Effects in Perceptions of Robots and Humans with Varying Emotional Intelligence.
 People's Explanations of Robot Behavior Subtly Reveal Mental State Inferences.
-Supplementary Materials to: People's Explanations of Robot Behavior Subtly Reveal Mental State Inferences.
 Explanation-Based Reward Coaching to Improve Human Performance via Reinforcement Learning.
 Plan Explanations as Model Reconciliation.
 Transfer Depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding.
@@ -38,7 +37,6 @@ On the Utility of Model Learning in HRI.
 The Benefits of Immersive Demonstrations for Teaching Robots.
 Teacher-Aware Active Robot Learning.
 Characterizing Input Methods for Human-to-Robot Demonstrations.
-Supplementary Material for Characterizing Input Methods for Human-to-Robot Demonstrations.
 The Assistive Multi-Armed Bandit.
 Effects of Distinct Robot Navigation Strategies on Human Behavior in a Crowded Environment.
 Comparing Human-Robot Proxemics Between Virtual Reality and the Real World.

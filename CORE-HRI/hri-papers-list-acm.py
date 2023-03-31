@@ -20,7 +20,7 @@ def main(args):
                               i = line.index('{')
                               title = line[i+1:-3]
                               paper_list.append(title)
-                              file.write(title + '\n')
+                              file.write(title + '.\n')
 
 
             file.close()
